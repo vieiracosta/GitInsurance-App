@@ -11,3 +11,9 @@ This is a simple Python application to manage insurance policies.
 - add_policy(policy): Adds a new policy.
 - remove_policy(policy): Removes a policy.
 - list_policies(): Lists all policies.
+
+## How to Run
+```bash
+python policy.py
+```powershell
+py policy.py
